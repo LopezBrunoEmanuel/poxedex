@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poxedex-web", "poxedex-web\poxedex-web.csproj", "{FFBEF47F-DD2F-4AE7-BE90-ED2EFD0F0CD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBEF47F-DD2F-4AE7-BE90-ED2EFD0F0CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBEF47F-DD2F-4AE7-BE90-ED2EFD0F0CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBEF47F-DD2F-4AE7-BE90-ED2EFD0F0CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBEF47F-DD2F-4AE7-BE90-ED2EFD0F0CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2518DE1-525B-494D-AEF9-46A93105AA7F}
+	EndGlobalSection
+EndGlobal
